@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy stranger! 👋
 
 <!--
 **PhilipKubicki/PhilipKubicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a part time student studying Computing (BSc) at Arden University 
+- 🌱 I’m currently learning the basics, How to use Git, Github, Visual Code, Java, Python and web authoring.
+- ⚡ Fun fact: A crocodile cannot stick its tongue out!
